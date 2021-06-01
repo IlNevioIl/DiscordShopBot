@@ -26,7 +26,7 @@ Example:
 ;setup Cool-Kit 0.95 USD https://i.redd.it/alt2d94g7su41.png 
 ```
 
-#### Invite
+## Invite
 Invite the bot using [this](https://discord.com/oauth2/authorize?client_id=848234262326411275&scope=bot&permissions=268443664) link.
 
 ## Commands
