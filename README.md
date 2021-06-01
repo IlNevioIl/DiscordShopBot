@@ -2,7 +2,7 @@
 A bot that can be used to setup items.  Prefix is `;`
 
 
-##Preview:
+## Preview:
 
 Order:
 
