@@ -1,5 +1,6 @@
 # DiscordShopBot
 A bot that can be used to setup items.  Prefix is `;`
+Note: Bot is currently offline. Hit me up on discord if I should turn it back on.
 
 
 ## Preview:
